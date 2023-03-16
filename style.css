@@ -1,0 +1,39 @@
+
+  
+  
+  
+
+
+
+
+
+.h2 {
+  font-size: 160px;
+}
+
+.header {
+    background-color: #dcd8d8;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .text {
+    background: linear-gradient(to right, rgb(255, 125, 212) 0%, rgb(188, 0, 188) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+   }
+
+
+   
+
+  .footer {
+    background-color: #fdf0f0;
+    text-align: center;
+    padding: 10px;
+  }
+
+
+
+
+  
